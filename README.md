@@ -19,8 +19,6 @@ This project recreates the layout, styling, and responsive behavior of YouTube's
 * Flexbox
 * CSS Grid
 
-```
-
 ## How to Run
 
 1. Clone the repository
